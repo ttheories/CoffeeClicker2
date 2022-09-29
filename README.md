@@ -36,3 +36,4 @@ Follow the directions in the code comments in the ```script.js``` file. You will
  
  ## Good Luck! Make sure to go use the Docs!
 # CoffeeClicker2
+# coffeeClicker
